@@ -1,6 +1,10 @@
 # WalletCrack
 Generate eth wallets with a large number of mnemonics and get the balance, golang implementation.
 
+> Statement: This tool is only used for technical testing, and anyone who uses it for illegal purposes shall be solely responsible.
+
+> 声明：本工具仅用于技术测试，其他任何用于违法用途者，责任自行承担。
+
 `metamask`
 `tokenPocket`
 `Trust wallet`
