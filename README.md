@@ -5,8 +5,8 @@ Generate eth wallets with a large number of mnemonics and get the balance, golan
 
 > 声明：本工具仅用于技术测试，其他任何用于违法用途者，责任自行承担。
 
-`metamask`
-`tokenPocket`
+`Metamask`
+`TokenPocket`
 `Trust wallet`
 
 ## Usage
